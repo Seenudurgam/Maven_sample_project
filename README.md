@@ -1,1 +1,3 @@
-This is a Maven Project 
+This is a Maven Project
+         Added dependencies for the Maven Project
+
